@@ -1,0 +1,13 @@
+C:\Projects\SuperCodigo\SuperCodigo\bin\Debug\netcoreapp3.1\SuperCodigo.exe
+C:\Projects\SuperCodigo\SuperCodigo\bin\Debug\netcoreapp3.1\SuperCodigo.deps.json
+C:\Projects\SuperCodigo\SuperCodigo\bin\Debug\netcoreapp3.1\SuperCodigo.runtimeconfig.json
+C:\Projects\SuperCodigo\SuperCodigo\bin\Debug\netcoreapp3.1\SuperCodigo.runtimeconfig.dev.json
+C:\Projects\SuperCodigo\SuperCodigo\bin\Debug\netcoreapp3.1\SuperCodigo.dll
+C:\Projects\SuperCodigo\SuperCodigo\bin\Debug\netcoreapp3.1\SuperCodigo.pdb
+C:\Projects\SuperCodigo\SuperCodigo\obj\Debug\netcoreapp3.1\SuperCodigo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\SuperCodigo\SuperCodigo\obj\Debug\netcoreapp3.1\SuperCodigo.AssemblyInfoInputs.cache
+C:\Projects\SuperCodigo\SuperCodigo\obj\Debug\netcoreapp3.1\SuperCodigo.AssemblyInfo.cs
+C:\Projects\SuperCodigo\SuperCodigo\obj\Debug\netcoreapp3.1\SuperCodigo.csproj.CoreCompileInputs.cache
+C:\Projects\SuperCodigo\SuperCodigo\obj\Debug\netcoreapp3.1\SuperCodigo.dll
+C:\Projects\SuperCodigo\SuperCodigo\obj\Debug\netcoreapp3.1\SuperCodigo.pdb
+C:\Projects\SuperCodigo\SuperCodigo\obj\Debug\netcoreapp3.1\SuperCodigo.genruntimeconfig.cache
