@@ -51,21 +51,15 @@ namespace SuperCodigo.TestesUnidade
         }
         
         [Fact]
-        public void ObterElementoFibonnaciIgual1()
-        {   
-            Assert.Equal(1, Operacoes.ObterElementoFibonnaci(1));
-        }
-        
-        [Fact]
         public void ObterElementoFibonnaciIgual2()
-        {
-            Assert.Equal(2, Operacoes.ObterElementoFibonnaci(2));
+        {   
+            Assert.Equal(1, Operacoes.ObterElementoFibonnaci(2));
         }
 
         [Fact]
         public void ObterElementoFibonnaciIgual3()
         {
-            Assert.Equal(6, Operacoes.ObterElementoFibonnaci(3));
+            Assert.Equal(2, Operacoes.ObterElementoFibonnaci(3));
         }
 
         [Theory]
